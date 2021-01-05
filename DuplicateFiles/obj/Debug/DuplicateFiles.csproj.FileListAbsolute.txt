@@ -1,0 +1,11 @@
+C:\Users\Sergey\source\repos\DuplicateFiles\bin\Debug\DuplicateFiles.exe.config
+C:\Users\Sergey\source\repos\DuplicateFiles\bin\Debug\DuplicateFiles.exe
+C:\Users\Sergey\source\repos\DuplicateFiles\bin\Debug\DuplicateFiles.pdb
+C:\Users\Sergey\source\repos\DuplicateFiles\obj\Debug\DuplicateFiles.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\DuplicateFiles\obj\Debug\DuplicateFiles.Form1.resources
+C:\Users\Sergey\source\repos\DuplicateFiles\obj\Debug\DuplicateFiles.Properties.Resources.resources
+C:\Users\Sergey\source\repos\DuplicateFiles\obj\Debug\DuplicateFiles.csproj.GenerateResource.cache
+C:\Users\Sergey\source\repos\DuplicateFiles\obj\Debug\DuplicateFiles.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\DuplicateFiles\obj\Debug\DuplicateFiles.exe
+C:\Users\Sergey\source\repos\DuplicateFiles\obj\Debug\DuplicateFiles.pdb
+C:\Users\Sergey\source\repos\DuplicateFiles\obj\Debug\DuplicateFiles.fTurnOn.resources
